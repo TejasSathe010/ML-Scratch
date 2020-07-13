@@ -23,3 +23,6 @@
 2. [Unsupervised Learning](https://github.com/tejassathe117/ML_Scratch/tree/master/Unsupervised_lea)<br>
 &nbsp; a. [KMeans](https://github.com/tejassathe117/ML_Scratch/tree/master/Unsupervised_lea/kmeans.py) - Clustering Model <br>
 &nbsp; b. [PCA](https://github.com/tejassathe117/ML_Scratch/tree/master/Unsupervised_lea/Dimentionality_reduction) - Dimentionality Reduction Model <br>
+
+
+### Tejas Sathe
